@@ -1,5 +1,5 @@
 # ISO Countries States
-Here ISO 3166 Countries and states from iso.org
+Here ISO 3166 Countries and states as sql from iso.org
 
 ### Available Countries
 
